@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="whale" size="6.000000 3.348837" />
+    <ImageTarget name="dolphin" size="6.000000 3.348837" />
+    <ImageTarget name="chick" size="6.000000 4.000000" />
+    <ImageTarget name="fish" size="6.000000 3.348837" />
+    <ImageTarget name="parrot" size="6.000000 9.034483" />
+    <ImageTarget name="eagle" size="6.000000 4.500000" />
+    <ImageTarget name="owl" size="6.000000 9.016394" />
+    <ImageTarget name="duck" size="6.000000 6.937093" />
+    <ImageTarget name="shark" size="6.000000 4.000000" />
+    <ImageTarget name="turtle" size="6.000000 4.000000" />
+    <ImageTarget name="dog" size="6.000000 3.910638" />
+    <ImageTarget name="tiger" size="6.000000 3.614458" />
+    <ImageTarget name="bear" size="6.000000 9.014085" />
+    <ImageTarget name="rhino" size="6.000000 4.500000" />
+    <ImageTarget name="deer" size="6.000000 4.284375" />
+    <ImageTarget name="elephant" size="6.000000 3.997760" />
+  </Tracking>
+</QCARConfig>

@@ -34,7 +34,7 @@ Allows users to rotate 3D models along the Y-axis for better observation and int
 
 ## APK Installation
 
-####### Download Options
+### Download Options
 - Download from website: https://saf-a-ri-app.vercel.app/
 
 1. Download the APK on your Android device
